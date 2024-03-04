@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/yutkach/emailsenderwebserver.git"
   },
-  "author": "",
+  "author": "yutkach",
   "license": "MIT",
   "dependencies": {
     "emailsendersdk": "^1.0.0"
